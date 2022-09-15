@@ -1,8 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=90EE90&height=300&section=header&text=Hello&fontSize=90)
+
 
 안녕하세요, 저는 주니어 프론트엔드 개발자 권기홍입니다. 😊  
-다른 사람에게 도움을 줄 수 있는 서비스를 개발하는 일과  
-훌륭한 UX를 구현하는 문제에 관심이 많습니다.  
-제가 소프트웨어 개발자로서 목표하는 바는 두 가지입니다.  
+제가 프론트엔드, 나아가 소프트웨어 개발자로서 목표하는 바는 두 가지입니다.  
   
 **첫째, "훌륭한 습관을 가진 좋은 개발자”**
 
