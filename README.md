@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=90EE90&height=300&section=header&text=Hello&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=22c58b&height=300&section=header&text=Hello&fontSize=90&fontColor=ffffff)
 
 
 안녕하세요, 저는 주니어 프론트엔드 개발자 권기홍입니다. 😊  
