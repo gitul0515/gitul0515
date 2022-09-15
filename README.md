@@ -7,7 +7,7 @@
 
 공부한 내용을 블로그에 꾸준히 기록하고 있습니다.
 
-<a href="https://gitul0515.github.io"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Github&logoColor=white"/></a>
+<a href="https://gitul0515.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Github&logoColor=white"/></a>
 
 
 최근에는 아래와 같은 기술 스택을 주로 사용하고 있습니다.
